@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 894.1 1080.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_31);
+      }
+
+      .cls-2 {
+        font-size: 197.7px;
+        letter-spacing: -.09em;
+      }
+
+      .cls-3, .cls-4 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-6 {
+        fill: url(#Gradiente_sem_nome_17);
+      }
+
+      .cls-7 {
+        font-family: DINPro-Bold, 'DIN Pro';
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-4 {
+        font-size: 325.84px;
+      }
+
+      .cls-8 {
+        fill: #223728;
+      }
+
+      .cls-9 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-10 {
+        font-family: DINPro, 'DIN Pro';
+      }
+
+      .cls-4 {
+        fill: #575756;
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_31" data-name="Gradiente sem nome 31" x1="320" y1="236.22" x2="660.26" y2="236.22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#be9a50"/>
+      <stop offset=".19" stop-color="#c09e54"/>
+      <stop offset=".42" stop-color="#c9a962"/>
+      <stop offset=".66" stop-color="#d7bd7a"/>
+      <stop offset=".91" stop-color="#ebd89a"/>
+      <stop offset="1" stop-color="#f4e4a9"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_17" data-name="Gradiente sem nome 17" x1="655.99" y1="49.8" x2="711.03" y2="49.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#be9a50"/>
+      <stop offset="1" stop-color="#f4e4a9"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <text transform="translate(0 735.46)"><tspan class="cls-7"><tspan class="cls-3" x="0" y="0">Shuff</tspan><tspan class="cls-5" x="642.22" y="0">l</tspan><tspan class="cls-9" x="715.54" y="0">e</tspan></tspan><tspan class="cls-10"><tspan class="cls-2" x="0" y="270.67" xml:space="preserve">            &amp;</tspan><tspan class="cls-4" x="505.5" y="270.67">Go</tspan></tspan></text>
+      <g>
+        <path class="cls-8" d="M405.92,223.17l.18-.14-52.32-12.37,16.16-17.31,68.88,4.27,94.49-73.36-116.63-3.63,19.05-22.51,148.09-13.07,62.96-48.88c3.15-2.51,6.32-4.75,9.47-6.79-7.45-17.27-24.6-29.38-44.6-29.38h-250.25c-26.84,0-48.6,21.76-48.6,48.6v174.46c0,13.36,10.83,24.19,24.19,24.19,15.56,0,30.85-2.54,52.4-13.31l16.78-10.43-.25-.34Z"/>
+        <path class="cls-1" d="M612.36,116.54l-15.18,109.71-23.09,10,.89-93.87-151.36,104.64h0s-62.33,40.02-89.27,70.03c-11.86,13.22-14.77,25.98-14.31,36.13.68,15.04,10.9,27.97,25.08,33.02,5.09,1.81,10.57,2.8,16.29,2.8h250.25c26.84,0,48.6-21.76,48.6-48.6V83.43l-47.9,33.12Z"/>
+        <path class="cls-6" d="M659.51,84.07c5.89-4.1,11.84-8.11,17.67-12.28,5.77-4.25,11.25-8.9,16.24-14.03,4.96-5.14,9.51-10.75,12.85-17.06,1.65-3.15,2.98-6.49,3.55-9.97.59-3.45.25-7.15-1.65-10.06l.04.06c-1.52-1.63-3.58-2.74-5.77-3.36-2.19-.66-4.5-.89-6.81-.93-4.62-.04-9.25.73-13.75,1.89-9.01,2.39-17.57,6.36-25.61,11.15l-.05-.08c3.92-2.56,7.99-4.93,12.25-6.94,4.24-2.03,8.65-3.73,13.19-4.99,4.54-1.26,9.24-2.11,14-2.03,2.37.04,4.77.28,7.07.98,2.3.65,4.54,1.83,6.2,3.67l.02.03.02.03c2.04,3.19,2.33,7.15,1.68,10.71-.63,3.61-2.03,7-3.72,10.18-3.44,6.37-8.07,11.98-13.1,17.11-5.06,5.12-10.62,9.72-16.45,13.91-5.89,4.11-11.88,8.05-17.82,12.08l-.06-.08Z"/>
+        <g>
+          <path class="cls-8" d="M301.55,263.71v-66.98l-1.14-147.35-81.02,47.67c-5.86,3.45-8.02,10.46-5.78,16.65l87.95,150.02Z"/>
+          <path class="cls-8" d="M301.55,288.97l-66.34-112.67-46.84,83.23c-3.33,5.92-1.02,12.72,4.49,16.35l108.69,62v-48.91Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
