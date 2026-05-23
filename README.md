@@ -65,6 +65,21 @@ https://cdn.jsdelivr.net/gh/alemeneghessosilva/shuffleandgo-brand-assets@main/Lo
 - `fundo verde` = green background
 - `variante` = variant
 
+## For partners
+
+If you're partnering with Shuffle and Go on co-branded content (sponsored video, event graphic, joint post, kit drop), grab the **partner kit** — one bundle with brand summary, color/font spec, logo usage rules, and all PNG + SVG logos.
+
+**Download (zip):**
+```
+https://cdn.jsdelivr.net/gh/alemeneghessosilva/shuffleandgo-brand-assets@main/partners/Shuffle-and-Go-Brand-Partner-Kit.zip
+```
+
+**Or browse the docs on GitHub:**
+- [`partners/README.md`](partners/README.md) — start here
+- [`partners/BRAND-SUMMARY.md`](partners/BRAND-SUMMARY.md) — identity, voice, pillars, hard nos (1-pager)
+- [`partners/colors-and-fonts.md`](partners/colors-and-fonts.md) — hex / CMYK / Pantone / type stack
+- [`partners/LOGO-USAGE.md`](partners/LOGO-USAGE.md) — clearspace, minimum sizes, co-branding rules
+
 ## Usage
 
 These assets represent the Shuffle and Go brand. Anyone may **fetch and embed** them for legitimate uses (covering Shuffle and Go content, partner integrations, fan creations crediting the channel). Do not use the marks to imply endorsement, claim affiliation, or build derivative brands. Contact via the channel for partnership inquiries.
